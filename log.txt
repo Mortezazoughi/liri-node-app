@@ -1,0 +1,629 @@
+---------- EVENT INFORMATION ----------
+---------- EVENT INFORMATION ----------
+0
+Name of the Venue: Estadi Olímpic Lluís Companys
+Date of the Event: 2019-05-05T21:00:00
+Venue Location: Barcelona
+------------------------------
+---------- EVENT INFORMATION ----------
+1
+Name of the Venue: Milano Summer Festival - Ippodromo Snai - San Siro
+Date of the Event: 2019-05-08T18:00:00
+Venue Location: Milano
+------------------------------
+---------- EVENT INFORMATION ----------
+2
+Name of the Venue: Stadion Letzigrund
+Date of the Event: 2019-05-10T17:30:00
+Venue Location: Zürich
+------------------------------
+---------- EVENT INFORMATION ----------
+3
+Name of the Venue: Stade de France
+Date of the Event: 2019-05-12T18:00:00
+Venue Location: Paris
+------------------------------
+---------- EVENT INFORMATION ----------
+4
+Name of the Venue: SLANE CASTLE
+Date of the Event: 2019-06-08T14:00:00
+Venue Location: Co. Meath
+------------------------------
+---------- EVENT INFORMATION ----------
+5
+Name of the Venue: Johan Cruijff ArenA
+Date of the Event: 2019-06-11T18:00:00
+Venue Location: Amsterdam
+------------------------------
+---------- EVENT INFORMATION ----------
+6
+Name of the Venue: RheinEnergieSTADION
+Date of the Event: 2019-06-13T17:30:00
+Venue Location: Köln
+------------------------------
+---------- EVENT INFORMATION ----------
+7
+Name of the Venue: King Baudouin Stadium
+Date of the Event: 2019-06-16T19:00:00
+Venue Location: Bruxelles
+------------------------------
+---------- EVENT INFORMATION ----------
+8
+Name of the Venue: Etihad Stadium
+Date of the Event: 2019-06-18T00:00:00
+Venue Location: Manchester
+------------------------------
+---------- EVENT INFORMATION ----------
+9
+Name of the Venue: Twickenham Stadium
+Date of the Event: 2019-06-20T19:00:00
+Venue Location: London
+------------------------------
+---------- EVENT INFORMATION ----------
+10
+Name of the Venue: Olympiastadion
+Date of the Event: 2019-07-06T17:30:00
+Venue Location: Berlin
+------------------------------
+---------- EVENT INFORMATION ----------
+11
+Name of the Venue: Ullevi Restaurant & Conference
+Date of the Event: 2019-07-09T18:45:00
+Venue Location: Göteborg
+------------------------------
+---------- EVENT INFORMATION ----------
+12
+Name of the Venue: Parken Kopenhagen
+Date of the Event: 2019-07-11T19:00:00
+Venue Location: Copenhagen
+------------------------------
+---------- EVENT INFORMATION ----------
+13
+Name of the Venue: Granasen Arena
+Date of the Event: 2019-07-13T03:30:00
+Venue Location: Trondheim
+------------------------------
+---------- EVENT INFORMATION ----------
+14
+Name of the Venue: KANTOLAN TAPAHTUMAPUISTO
+Date of the Event: 2019-07-16T15:01:00
+Venue Location: Hameenlinna
+------------------------------
+---------- EVENT INFORMATION ----------
+15
+Name of the Venue: Raadi lennuväli, Tartu
+Date of the Event: 2019-07-18T18:30:00
+Venue Location: Tartu
+------------------------------
+---------- EVENT INFORMATION ----------
+16
+Name of the Venue: The Luzhniki Stadium
+Date of the Event: 2019-07-21T19:00:00
+Venue Location: Moscow
+------------------------------
+---------- EVENT INFORMATION ----------
+17
+Name of the Venue: National Stadion Bukarest
+Date of the Event: 2019-08-14T16:30:00
+Venue Location: Bucharest
+------------------------------
+---------- EVENT INFORMATION ----------
+18
+Name of the Venue: Ernst-Happel-Stadion
+Date of the Event: 2019-08-16T18:00:00
+Venue Location: Wien
+------------------------------
+---------- EVENT INFORMATION ----------
+19
+Name of the Venue: Letiště Praha Letňany
+Date of the Event: 2019-08-18T16:00:00
+Venue Location: Praha
+------------------------------
+---------- EVENT INFORMATION ----------
+20
+Name of the Venue: PGE Narodowy
+Date of the Event: 2019-08-21T19:00:00
+Venue Location: Warsaw
+------------------------------
+---------- EVENT INFORMATION ----------
+21
+Name of the Venue: Olympiastadion
+Date of the Event: 2019-08-23T18:00:00
+Venue Location: Munchen
+------------------------------
+---------- EVENT INFORMATION ----------
+22
+Name of the Venue: Maimarktgelände
+Date of the Event: 2019-08-25T18:00:00
+Venue Location: Mannheim
+------------------------------
+---------- EVENT INFORMATION ----------
+23
+Name of the Venue: Chase Center
+Date of the Event: 2019-09-06T20:00:00
+Venue Location: San Francisco
+------------------------------
+---------- EVENT INFORMATION ----------
+24
+Name of the Venue: Chase Center
+Date of the Event: 2019-09-08T20:00:00
+Venue Location: San Francisco
+------------------------------
+---------- EVENT INFORMATION ----------
+25
+Name of the Venue: Optus Stadium
+Date of the Event: 2019-10-17T19:30:00
+Venue Location: Burswood
+------------------------------
+---------- EVENT INFORMATION ----------
+26
+Name of the Venue: Adelaide Oval
+Date of the Event: 2019-10-20T19:00:00
+Venue Location: North Adelaide
+------------------------------
+---------- EVENT INFORMATION ----------
+27
+Name of the Venue: Marvel Stadium
+Date of the Event: 2019-10-22T19:30:00
+Venue Location: Docklands
+------------------------------
+---------- EVENT INFORMATION ----------
+28
+Name of the Venue: Marvel Stadium
+Date of the Event: 2019-10-24T19:30:00
+Venue Location: Docklands
+------------------------------
+---------- EVENT INFORMATION ----------
+29
+Name of the Venue: ANZ Stadium
+Date of the Event: 2019-10-26T19:30:00
+Venue Location: Sydney Olympic Park
+------------------------------
+---------- EVENT INFORMATION ----------
+30
+Name of the Venue: Queensland Sport And Athletics Centre (QSAC)
+Date of the Event: 2019-10-29T19:30:00
+Venue Location: Brisbane
+------------------------------
+---------- EVENT INFORMATION ----------
+31
+Name of the Venue: Mt Smart Stadium
+Date of the Event: 2019-10-31T19:30:00
+Venue Location: Auckland
+------------------------------
+---------- EVENT INFORMATION ----------
+32
+Name of the Venue: Mt Smart Stadium
+Date of the Event: 2019-11-02T19:30:00
+Venue Location: Auckland
+------------------------------
+---------- MOVIE INFORMATION ----------
+Title: Back to the Future
+Release Year: 1985
+Country of Production: USA
+Language: English
+Actors: Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 96%
+Plot: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+---------------------------------------
+---------- SONG INFORMATION ----------
+0
+song name: Miracle
+artist(s): CHVRCHES
+album: Love Is Dead
+preview song: https://p.scdn.co/mp3-preview/e259b849ebf6908a3eca253dc94550d924f0989c?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+1
+song name: Miracle
+artist(s): Caravan Palace
+album: Miracle
+preview song: https://p.scdn.co/mp3-preview/a778f677001dd12ffc1dceb6377213a4f57157e2?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+2
+song name: My Miracle
+artist(s): Brad Paisley
+album: My Miracle
+preview song: https://p.scdn.co/mp3-preview/3cb71b348c8a7a886d797efcef797f31009e352e?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+3
+song name: Miracle Mile
+artist(s): Cold War Kids
+album: Dear Miss Lonelyhearts
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+4
+song name: Miracle
+artist(s): The Score
+album: ATLAS
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+5
+song name: I Need A Miracle
+artist(s): Third Day
+album: Miracle
+preview song: https://p.scdn.co/mp3-preview/6fba1f6ffae82d4bdc839c29e78faa99a9954652?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+6
+song name: I Want It All - Remastered 2011
+artist(s): Queen
+album: The Miracle (Deluxe Remastered Version)
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+7
+song name: Unbreakable (feat. Miracle)
+artist(s): Faydee
+album: Unbreakable (Ep)
+preview song: https://p.scdn.co/mp3-preview/479625f5fbb166667409bd57483c254e2f1761e3?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+8
+song name: Miracle Aligner
+artist(s): The Last Shadow Puppets
+album: Everything You've Come To Expect (Deluxe Edition)
+preview song: https://p.scdn.co/mp3-preview/9b8984f20f8dec795a58804c252e24668675cf88?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+9
+song name: Miracle Love
+artist(s): Matt Corby
+album: Rainbow Valley
+preview song: https://p.scdn.co/mp3-preview/baba5c6d4c78891ce66971de927685129a23ff6b?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+10
+song name: Miracle
+artist(s): Alpharock
+album: Miracle
+preview song: https://p.scdn.co/mp3-preview/46699e7a3a7cb741daea4ef787263ed4fdcd10b2?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+11
+song name: A Miracle
+artist(s): Nipsey Hussle
+album: Mailbox Money
+preview song: https://p.scdn.co/mp3-preview/93947218b58366214485b1617e82cec25f5da49f?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+12
+song name: Kahlil Gibran
+artist(s): STRFKR
+album: Miracle Mile
+preview song: https://p.scdn.co/mp3-preview/e39c0f8b478a042ff3bd1a528be8074cb2800621?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+13
+song name: Miracle
+artist(s): Mosaic MSC
+album: Miracle
+preview song: https://p.scdn.co/mp3-preview/d61ed60950e16821f2aa4fdea3664e18a0a3b14d?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+14
+song name: Let It Be (feat. Veela)
+artist(s): Blackmill
+album: Miracle
+preview song: https://p.scdn.co/mp3-preview/adc6c328aae5590d2fe9de0c5724cedd0fa1cf5e?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+15
+song name: A Miracle, A Mile Away
+artist(s): Bad Suns
+album: Mystic Truth
+preview song: https://p.scdn.co/mp3-preview/e6dfffb285ecdce24fe2b6722d4e882825b62a18?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+16
+song name: Miracle
+artist(s): Blackmill
+album: Miracle
+preview song: https://p.scdn.co/mp3-preview/03dc889cf6b818c660993531045e1a6fd0a11422?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+17
+song name: Miracle
+artist(s): Paramore
+album: RIOT!
+preview song: https://p.scdn.co/mp3-preview/97dfc1ec8cbe5360a38c5acfbcfb83464677cf46?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+18
+song name: Miracle
+artist(s): GOT7
+album: &ME Edition
+preview song: https://p.scdn.co/mp3-preview/e8f7daa4e175fe04663107c155bee0e06f71b837?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+19
+song name: While I'm Alive
+artist(s): STRFKR
+album: Miracle Mile
+preview song: https://p.scdn.co/mp3-preview/dd1c279ad9db4552f7b3d4dacb17a498a46995fb?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+0
+song name: I Want It That Way
+artist(s): Backstreet Boys
+album: The Hits--Chapter One
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+1
+song name: I Want It That Way
+artist(s): Backstreet Boys
+album: Millennium
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+2
+song name: I Want It That Way
+artist(s): Anthem Lights
+album: Covers Part IV
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+3
+song name: I Want It That Way
+artist(s): Jess and Gabriel
+album: Under the Covers, Vol. 3
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+4
+song name: I Want It That Way
+artist(s): Mick Jensen
+album: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+5
+song name: I Want It That Way
+artist(s): Tyler and Mark
+album: Beautiful Dreams
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+6
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+artist(s): "Weird Al" Yankovic
+album: Poodle Hat
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+7
+song name: I Want It That Way
+artist(s): Dynamite Boy
+album: Punk Goes Pop
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+8
+song name: I Want It That Way
+artist(s): Backstreet Boys
+album: 90 Sweet 90s Hits!
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+9
+song name: I Want It That Way
+artist(s): Backstreet Boys
+album: NKOTBSB
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+10
+song name: I Want It That Way
+artist(s): Steel Panther
+album: I Want It That Way
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+12
+song name: I Want It That Way
+artist(s): Boyce Avenue
+album: Cover Sessions, Vol. 2
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+13
+song name: I Want It That Way
+artist(s): Manuel Costa
+album: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+14
+song name: I Want It That Way
+artist(s): Scary Pockets
+album: Nu Funk
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+15
+song name: I Want It That Way
+artist(s): Scott Bradlee's Postmodern Jukebox
+album: Selfies on Kodachrome
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+16
+song name: I Want It That Way
+artist(s): Yshop
+album: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+17
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+artist(s): "Weird Al" Yankovic
+album: The Essential "Weird Al" Yankovic
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+18
+song name: I Want It That Way
+artist(s): Kidz Bop Kids
+album: Kidz Bop
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+19
+song name: I Want It That Way
+artist(s): Backstreet Boys
+album: NOW That's What I Call 90s Pop
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+0
+song name: Iris
+artist(s): The Goo Goo Dolls
+album: Dizzy Up The Girl
+preview song: https://p.scdn.co/mp3-preview/0e87ade9fa869e31b3c32115c2c10ee8fa522c81?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+1
+song name: Iris
+artist(s): The Goo Goo Dolls
+album: Greatest Hits Volume One - The Singles
+preview song: https://p.scdn.co/mp3-preview/956923574bf91206435e9774d13f6dd775a49cab?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+2
+song name: In Spite of Ourselves (feat. Iris DeMent)
+artist(s): John Prine
+album: In Spite of Ourselves
+preview song: https://p.scdn.co/mp3-preview/88734ddf99bcd22e38be3091ad597a4f1f67c8ba?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+3
+song name: Iris
+artist(s): Kina Grannis
+album: Iris
+preview song: https://p.scdn.co/mp3-preview/3c725f01408e0b5ac95df950f636f8a02de1e648?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+4
+song name: Iris
+artist(s): Avenza
+album: Iris
+preview song: https://p.scdn.co/mp3-preview/b529dd2ec6bb8e66861f69580ee87b0ad55f6521?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+5
+song name: Iris
+artist(s): Eir Aoi
+album: Iris
+preview song: https://p.scdn.co/mp3-preview/05b29ba1ff2f25410c6494986e0d7c8e198efa5a?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+6
+song name: Ah! Leah!
+artist(s): Donnie Iris
+album: 20th Century Masters: The Millennium Collection: Best of Donnie Iris
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+7
+song name: Iris - Live
+artist(s): Sleeping With Sirens
+album: Live and Unplugged
+preview song: https://p.scdn.co/mp3-preview/255512ab4d7e6f42d4e80f33cd828646dc4928b9?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+8
+song name: Iris
+artist(s): The Goo Goo Dolls
+album: City of Angels (Music from the Motion Picture)
+preview song: https://p.scdn.co/mp3-preview/0e87ade9fa869e31b3c32115c2c10ee8fa522c81?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+9
+song name: IRIS
+artist(s): Ashes To Amber
+album: Voodoo Blu
+preview song: https://p.scdn.co/mp3-preview/7417fdf231610e194814be02c8cab991d9c0a5dd?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+10
+song name: Through The Iris
+artist(s): 10 Years
+album: The Autumn Effect
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+11
+song name: Iris And Jasper
+artist(s): Hans Zimmer
+album: The Holiday (Original Motion Picture Soundtrack)
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+12
+song name: Capsize
+artist(s): Iris Temple
+album: Capsize
+preview song: https://p.scdn.co/mp3-preview/a1d8eb36298bd07abbbae8a2cbb19a1425fd3df5?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+13
+song name: Iris
+artist(s): Brooklyn Duo
+album: Iris
+preview song: https://p.scdn.co/mp3-preview/df7355ee3f27e87b003e48c742ac91221ee17127?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+14
+song name: Iris
+artist(s): Mike Posner
+album: At Night, Alone.
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+15
+song name: Iris
+artist(s): New Found Glory
+album: From The Screen To Your Stereo Part II
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+16
+song name: Iris
+artist(s): Live
+album: Throwing Copper
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+17
+song name: Iris (2008)
+artist(s): Boyce Avenue
+album: Cover Sessions, Vol. 1
+preview song: https://p.scdn.co/mp3-preview/d48fe3b8b2d9b74c928f2a497624bb76d9ac3d47?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
+---------- SONG INFORMATION ----------
+18
+song name: Iris (Hold Me Close)
+artist(s): U2
+album: Songs Of Innocence
+preview song: null
+--------------------------------------
+---------- SONG INFORMATION ----------
+19
+song name: Iris
+artist(s): Boyce Avenue
+album: Cover Sessions, Vol. 5
+preview song: https://p.scdn.co/mp3-preview/9465b6dd98d4dc4d2a2c2750a022bed2c5163561?cid=7ab9cc13580b45229b448a1091719612
+--------------------------------------
